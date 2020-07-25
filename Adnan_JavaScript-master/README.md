@@ -1,2 +1,2 @@
-# AjayKatkadeJavaScript
+# AdnanJavaScript
 epamTask
