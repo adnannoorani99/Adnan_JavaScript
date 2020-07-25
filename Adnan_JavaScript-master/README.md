@@ -1,2 +1,0 @@
-# AdnanJavaScript
-epamTask
